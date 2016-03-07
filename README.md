@@ -1,2 +1,2 @@
-# vlc-subtitles-module
-VLC Subtitles Module: Provides extra functionalities like downloading subtitles.
+# vlc-subtitles-plugin
+VLC Subtitles Plugin: Provides extra functionalities like downloading subtitles.
